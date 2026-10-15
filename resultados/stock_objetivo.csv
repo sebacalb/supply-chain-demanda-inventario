@@ -1,0 +1,27 @@
+categoria,abc,xyz,demanda_esperada,error_tipico,stock_seguridad,punto_de_pedido,stock_objetivo
+Intimates,A,X,172,11.0,31.0,369.0,547.0
+Jeans,A,X,155,19.0,53.0,353.0,518.0
+Tops & Tees,A,X,151,17.0,49.0,342.0,502.0
+Fashion Hoodies & Sweatshirts,A,X,143,17.0,50.0,327.0,479.0
+Sweaters,A,X,138,16.0,47.0,314.0,461.0
+Shorts,A,X,131,17.0,49.0,302.0,442.0
+Sleep & Lounge,A,X,124,20.0,58.0,295.0,430.0
+Swim,A,X,123,13.0,36.0,276.0,405.0
+Outerwear & Coats,A,X,111,12.0,34.0,250.0,367.0
+Active,A,X,105,14.0,41.0,243.0,356.0
+Suits & Sport Coats,A,X,81,12.0,33.0,189.0,276.0
+Dresses,A,X,74,7.0,21.0,165.0,243.0
+Underwear,B,X,119,12.0,36.0,267.0,393.0
+Accessories,B,X,109,16.0,46.0,256.0,373.0
+Pants,B,X,89,19.0,55.0,223.0,322.0
+Maternity,B,X,63,12.0,34.0,154.0,223.0
+Blazers & Jackets,B,X,54,10.0,28.0,131.0,190.0
+Plus,B,X,44,6.0,17.0,102.0,149.0
+Pants & Capris,B,X,29,8.0,24.0,78.0,111.0
+Socks,C,X,71,14.0,41.0,175.0,254.0
+Socks & Hosiery,C,X,42,11.0,30.0,109.0,156.0
+Leggings,C,X,39,9.0,27.0,100.0,144.0
+Skirts,C,X,25,4.0,12.0,60.0,87.0
+Suits,C,Y,12,5.0,14.0,35.0,50.0
+Jumpsuits & Rompers,C,Y,11,5.0,14.0,34.0,47.0
+Clothing Sets,C,Y,3,1.0,4.0,9.0,13.0
